@@ -3,5 +3,5 @@
     header("Access-Control-Allow-Headers: *");
     header("Access-Control-Allow-Methods: *");
 
-    
+    echo 'h';
 ?>
